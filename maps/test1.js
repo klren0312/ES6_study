@@ -1,0 +1,5 @@
+let map = new Map()
+map.set('name','devid')
+console.log(map.get('name'))
+console.log(map.has('name'))
+console.log(map)
