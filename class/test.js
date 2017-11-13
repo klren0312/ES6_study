@@ -11,3 +11,4 @@ class Person {
 
 let person = new Person('atea',232,"rere")
 console.log(person.incrementAge())
+
